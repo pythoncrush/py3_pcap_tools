@@ -16,3 +16,5 @@ python packet_parser.py plot --pcap=10_mins_vivo.pcapng        (This will parse 
 
 Syntax for pcap filtering
 python enable_diag_mode.py R5CN80FWJEP  att_log.pcapng  (the R5CN80FWJEP is the adb serial number which will have a wi-fi mac address if check_inventory is run first)
+
+top_bq.txt is the output of top > top_bq.txt 
